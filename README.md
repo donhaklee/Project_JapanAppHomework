@@ -8,4 +8,5 @@
 # UI
 ### 화면
 
+![Random](Project_JapanAppHomework/images/image1.jpg)
 
