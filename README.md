@@ -8,5 +8,11 @@
 # UI
 ### 화면
 
-![Random](Project_JapanAppHomework/images/image1.jpg)
+![Random](Project_JapanAppHomework/images/image01.png)
+![Random](Project_JapanAppHomework/images/image02.png)
+![Random](Project_JapanAppHomework/images/image03.png)
+![Random](Project_JapanAppHomework/images/image04.png)
+![Random](Project_JapanAppHomework/images/image05.png)
+![Random](Project_JapanAppHomework/images/image06.png)
+![Random](Project_JapanAppHomework/images/image07.png)
 
