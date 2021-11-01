@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">homework</string>
+    <string name="affirmation1">지바현 : 일본 간토 지방 남동부에 위치하며 도쿄도 동쪽에 인접하는 현이다.</string>
+    <string name="affirmation2">후쿠오카 : 후쿠오카시는 후쿠오카현의 현청 소재지이다. 일본 전국에서 6번째, 규슈에서는 제일 인구가 많은 도시이다.</string>
+    <string name="affirmation3">교토 : 교토시는 일본 교토부 남부에 위치한 시이다. 현청소재지이며 정령지정도시이다.</string>
+    <string name="affirmation4">오키나와 : 오키나와현은 일본 최남단에 있는 현으로 오키나와섬을 포함한 류큐 제도를 관할한다.</string>
+    <string name="affirmation5">오사카 : 오사카시는 일본 오사카부에 있는 도시로 부청 소재지이다. 혼슈 긴키 지방의 요도가와 강 하구 오사카 만에 위치해 있다.</string>
+    <string name="affirmation6">오사카성 : 오사카 성은 셋쓰 국 히가시나리 군 오사카에 있었던 아즈치모모야마 시대부터 에도 시대의 성이다.</string>
+    <string name="affirmation7">삿포로 : 삿포로시는 일본 홋카이도의 도오지방에 위치하고 이시카리 진흥국에 속한다.</string>
+    <string name="affirmation8">유니버설 스튜디오 : 일본 오사카시에 있으며, 2001년 3월 31일 개장했다.</string>
+
+    <string name="affirmation9">지바현 : 일본 혼슈 동단에 있는 현. 국립국어원 일본어 표기법으로는 지바현으로 표기한다. 현청 소재지는 치바시.도쿄 디즈니 리조트, 도쿄 디즈니랜드, 도쿄 디즈니씨가 있고, 나리타 국제공항 및 마쿠하리 멧세 컨벤션도 이 현 안에 있다. 치바 롯데 마린즈와 윤정환 감독의 제프 유나이티드의 홈이 이 곳에 있다. 땅콩으로 유명한 현이기도 하다.</string>
+    <string name="affirmation10">후쿠오카 : 일본 규슈 북부에 위치한 현. 면적 약 4,980㎢, 인구 약 511만 명(2020년). 규슈 섬에서 가장 인구가 많아 규슈 제1의 도시 후쿠오카시와 제2의 도시 기타큐슈시가 모두 후쿠오카현에 있으며, 혼슈와 칸몬 해협의 해저터널과 교량으로 연결되어 교통의 중심이다. 명실상부한 규슈의 수도와 같은 지역이다.</string>
+    <string name="affirmation11">교토 : 교토시는 일본 교토부 남부에 위치한 시이다. 현청소재지이며 정령지정도시이다. 일본의 도시가 8번째로 인구가 제일 많으며. 원래는 794년 - 1869년 까지 일본의 수도를 놓여 있었기 때문에 「고도」로 불린다.</string>
+    <string name="affirmation12">오키나와 : 오키나와현은 일본 최남단에 있는 현으로 오키나와섬을 포함한 류큐 제도를 관할한다. 현청 소재지는 오키나와섬의 가장 큰 도시는 나하시이다 </string>
+    <string name="affirmation13">오사카 : 오사카부는 가장 핵심지역인 오사카시를 비롯해 사카이시 등 여러 지역구로 이루어져 있다. 오사카부를 중심으로 하는 오사카 도시권을 게이한신 혹은 긴키지방이라 부른다. 오사카는 일본 제2의 도시이며, 도쿄도에 이어 경제, 문화 등 중요한 역할을 담당하고 있다. </string>
+    <string name="affirmation14">오사카성 : 셋쓰 국 히가시나리 군 오사카에 있었던 아즈치모모야마 시대부터 에도 시대의 성이다. 다른 이름은 긴조(金城) 혹은 긴조(錦城)로, 과거에는 오사카(大坂)가 근대에 와서 오사카(大阪)로 표기하도록 개정되었기 때문에, 현재에는 오사카(大阪)라고 많이 표기하고 있다.</string>
+    <string name="affirmation15">삿포로 : 삿포로시는 일본 홋카이도의 도오지방에 위치하고 이시카리 진흥국에 속한다. 도청 소재지의 이시카리 진홍국에 위치하며 정치, 경제의 중심 도시다.</string>
+    <string name="affirmation16">유니버설 스튜디오 : 유니버설 스튜디오 재팬은 여러 유니버설 스튜디오 놀이공원 중 하나로 일본 오사카시에 있으며, 2001년 3월 31일 개장했다.</string>
+
+
+    <string name="affirmation17">스시</string>
+    <string name="affirmation18">덴푸라</string>
+    <string name="affirmation19">스키야키</string>
+    <string name="affirmation20">라멘</string>
+    <string name="affirmation21">카레</string>
+    <string name="affirmation22">돈까츠</string>
+    <string name="affirmation23">소바</string>
+    <string name="affirmation24">우동</string>
+    <string name="affirmation25">가라아게</string>
+    <string name="affirmation26">야키토리</string>
+    <string name="affirmation27">야키니쿠</string>
+    <string name="affirmation28">사시미</string>
+    <string name="affirmation29">로바다야끼</string>
+    <string name="affirmation30">샤브샤브</string>
+    <string name="affirmation31">가이세키</string>
+
+    <string name="affirmation32">스시 : 스시는 소금과 식초, 설탕으로 간을 한 밥 위에 얇게 저민 생선이나 김, 달걀, 채소 등을 얹거나 말아 만드는 일본의 대표 요리이다.</string>
+    <string name="affirmation33">덴푸라 : 여러 가지 해산물과 채소 등을 달걀과 밀가루를 섞은 튀김옷에 무친 뒤 기름에 튀겨 만든 음식. 16~17세기 일본 항구도시 나가사키에 들어온 유럽 선교사들에 의해 전해진 음식으로 알려져 있다.</string>
+    <string name="affirmation34">스키야키 : 스키야키는 간장, 설탕으로 만든 다레에 얇게 썬 고기(주로 쇠고기)와 대파, 두부, 배추, 실곤약 등의 재료를 넣고 자작하게 졸인 일본의 나베 요리이다. </string>
+    <string name="affirmation35">라멘 :  중국의 수타 탕면인 라몐이 일본에서 현지화되어 만들어진 일본식 중화 요리이다. 중화 요리로 시작해서 인기를 얻었다는 점에서 한국의 짜장면과 유사하다. </string>
+    <string name="affirmation36">카레 : 카레는 인도의 커리를 일본식으로 만든 요리이다. 일본 요리에서 큰 비중을 차지한다. 요쇼쿠 요리로 여겨지지만, 유럽식 커리에 비해 고기를 적게 넣고 채소를 많이 넣어 만든다.</string>
+    <string name="affirmation37">돈까츠 : 돈가스는 오스트리아의 슈니첼을 원형으로, 서양의 커틀릿에서 유래한 일본 요리이다. 돼지 등심을 2~3cm 두께로 넓적하게 썰어 빵가루를 묻힌 후, 기름에 튀겨 일본식 우스터 소스, 밥, 야채 샐러드를 곁들여 먹는다.</string>
+    <string name="affirmation38">소바 : 소바는 메밀가루로 만든 국수를 뜨거운 국물이나 차가운 간장에 무·파·고추냉이를 넣고 찍어 먹는 일본 요리이다.</string>
+    <string name="affirmation39">우동 : 우동은 밀가루에 식염수를 붓고 반죽한 것을 가늘게 뽑아 만든 국수이다. 대표적인 일본 요리 중의 하나로, 밀가루를 넓게 펴서 칼로 썰어서 만든 굵은 국수, 또는 그 국수로 만든 국수 요리다.</string>
+    <string name="affirmation40">가라아게 : 가라아게 또는 카라아게는 일본의 튀김 요리이다. 닭고기나 해산물을 한입크기로 썰어 밀가루나 감자, 옥수수 등의 전분을 살짝 입힌 후 기름에 튀겨 조리한다.</string>
+    <string name="affirmation41">야키토리 : 야키토리는 일본의 닭고기를 꼬치에 꿰어서 만든 음식이다. 조리 후에 고기는 타레나 소금으로 양념하는 것이 보통이다.</string>
+    <string name="affirmation42">야키니쿠 : 야키니쿠는 한국의 고기구이 문화가 일본에 전파하여 일본에서 부르는 단어로, 일반적으로 식탁에서 즉석으로 고기를 구워먹는 요리 전반을 말한다. </string>
+    <string name="affirmation43">사시미 : 사시미는 일본식 회 요리이다. 주로 생선과 조개류를 익히지 않고 날것으로 썰어 먹는 일본 음식이다.</string>
+    <string name="affirmation44">로바다야끼 : 미야기현 센다이시에서 최초로 발생한 음식점으로 화로주위에서 굽다라는 의미를 가진 말이다. 화로에서 직접 생선이나 육류, 야채 등을 구워 나가는 가게이다.</string>
+    <string name="affirmation45">샤브샤브 : 샤브샤브는 끓는 국물에 얇게 썬 고기, 채소, 해물, 버섯, 두부 등을 데쳐 양념장에 재어 먹는 요리이다.</string>
+    <string name="affirmation46">가이세키 : 가이세키는 다도에서 다과회를 할 때, 주최자가 손님에게 대접 요리를 하는 것을 말한다.</string>
+
+</resources>
